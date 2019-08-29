@@ -1,3 +1,12 @@
+<img src=%00 onerror=alert(document.domain)
+<script/src='
+
+<img src=%00 onerror=alert(document.cookie)
+<script/src='
+
+<img src=%00 onerror=confirm(1337)
+<script/src='
+
 # Assetnote
 
 ![logo](http://i.imgur.com/nY80uWj.png)
